@@ -1,5 +1,3 @@
-from turtle import down
-from torch import _pin_memory
 from torchvision.datasets import CIFAR10
 from torch.utils.data import DataLoader
 import torchvision.transforms as transforms
